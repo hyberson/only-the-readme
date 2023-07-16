@@ -1,2 +1,2 @@
-# Read me
-README.
+# README
+Read me.
